@@ -18,7 +18,7 @@ DOCbotics is a student-led robotics team passionate about engineering, programmi
 
 | Season | Program | Robot Name | Repository |
 |--------|---------|------------|------------|
-| 2026 | FRC | SPRAY & PRAY | [DocBotics_FRC_2026_REBUILT](https://github.com/Robotwaterfall/DocBotics_FRC_2026_REBUILT) |
+| 2026 | FRC | SPRAY & PRAY | [DocBotics_FRC_2026_REBUILT](https://github.com/DO-C-Botics/DOCBOTICS-2026-REBUILT.git) |
 | 2025 | FTC | ZIP-E | [DocBotics_FTC_2025_SCARAB](https://github.com/DO-C-Botics/DocBotics_FTC_2025_ZipE.git) |
 
 ---
