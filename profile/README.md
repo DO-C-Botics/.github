@@ -19,7 +19,7 @@ DOCbotics is a student-led robotics team passionate about engineering, programmi
 | Season | Program | Robot Name | Repository |
 |--------|---------|------------|------------|
 | Rebuilt | FRC | SPRAY & PRAY | [DocBotics_FRC_2026_REBUILT](https://github.com/DO-C-Botics/DOCBOTICS-2026-REBUILT.git) |
-| Decode | FTC | Ballista | Coming Soon |
+| Decode | FTC | BALLISTA | Coming Soon |
 | Decode | FTC | ZIP E | [DocBotics_FTC_2025_ZipE](https://github.com/DO-C-Botics/DocBotics_FTC_2025_ZipE.git) |
 
 ---
