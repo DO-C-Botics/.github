@@ -1,4 +1,4 @@
-# DOCbotics
+# DOC Botics
 
 Welcome to the official GitHub organization for **DOC Botics** — a competitive robotics team participating in both **FIRST Robotics Competition (FRC)** and **FIRST Tech Challenge (FTC)**.
 
