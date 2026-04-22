@@ -1,6 +1,6 @@
 # DOCbotics
 
-Welcome to the official GitHub organization for **DOCbotics** — a competitive robotics team participating in both **FIRST Robotics Competition (FRC)** and **FIRST Tech Challenge (FTC)**.
+Welcome to the official GitHub organization for **DOC Botics** — a competitive robotics team participating in both **FIRST Robotics Competition (FRC)** and **FIRST Tech Challenge (FTC)**.
 
 ---
 
@@ -35,7 +35,7 @@ Our code relies on a variety of tools and frameworks:
 - **PID / Motion Control** — Precise motor and mechanism control
 - **FTC SDK** — FTC robot programming framework
 - **Pedro Pathing** — Advanced FTC autonomous pathfinding
-- **Path Finding** — Advance FRC autonomous pathfinding using pathplanner
+- **Path Finding** — Advanced FRC autonomous pathfinding using pathplanner
 - **PoseEstimation** — Advanced FTC and FRC pose estimation updeated using a fusion of vision processing and swerve drive odometry
 
 ---
