@@ -4,8 +4,8 @@ Welcome to the official GitHub organization for **DOC Botics** — a competitive
 
 ---
 # Current Lead
-Current Lead: Jayson Welshman
-Years On Team: 3 Years
+- **Current Lead:** Jayson Welshman
+- **Years On Team:** 3 Years
 
 ---
 
