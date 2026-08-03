@@ -3,14 +3,19 @@
 Welcome to the official GitHub organization for **DOC Botics** — a competitive robotics team participating in both **FIRST Robotics Competition (FRC)** and **FIRST Tech Challenge (FTC)**.
 
 ---
+# Current Lead
+Current Lead: Jayson Welshman
+Years On Team: 3 Years
 
-## 🏆 About Us
+---
+
+##  About Us
 
 DOCbotics is a student-led robotics team passionate about engineering, programming, and problem-solving. We design, build, and program robots to compete at regional and provincial levels. Our team focuses on technical excellence, gracious professionalism, and continuous learning.
 
-- 📍 **Location:** Ajax, Ontario, Canada
-- 🎮 **Programs:** FRC & FTC (FIRST Robotics)
-- 💻 **Primary Language:** Java (WPILib / FTC SDK)
+-  **Location:** Ajax, Ontario, Canada
+-  **Programs:** FRC & FTC (FIRST Robotics)
+-  **Primary Language:** Java (WPILib / FTC SDK)
 
 ---
 
@@ -21,10 +26,12 @@ DOCbotics is a student-led robotics team passionate about engineering, programmi
 | Rebuilt | FRC | SPRAY & PRAY | [DocBotics_FRC_2026_REBUILT](https://github.com/DO-C-Botics/DOCBOTICS-2026-REBUILT.git) |
 | Decode | FTC | BALLISTA | [DocBotics-DECODE-BALLISTA](https://github.com/DO-C-Botics/DOCBOTICS-DECODE-BALLISTA.git) |
 | Decode | FTC | ZIP E | [DocBotics_FTC_2025_ZipE](https://github.com/DO-C-Botics/DocBotics_FTC_2025_ZipE.git) |
+| BIOBUZZ | FTC | ??? | ????? |
+| BIOCORE | FRC | ??? | ????? |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 Our code relies on a variety of tools and frameworks:
 
