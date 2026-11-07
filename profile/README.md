@@ -26,7 +26,7 @@ DOCbotics is a student-led robotics team passionate about engineering, programmi
 | Rebuilt | FRC | SPRAY & PRAY | [DocBotics_FRC_2026_REBUILT](https://github.com/DO-C-Botics/DOCBOTICS-2026-REBUILT.git) |
 | Decode | FTC | BALLISTA | [DocBotics-DECODE-BALLISTA](https://github.com/DO-C-Botics/DOCBOTICS-DECODE-BALLISTA.git) |
 | Decode | FTC | ZIP E | [DocBotics_FTC_2025_ZipE](https://github.com/DO-C-Botics/DocBotics_FTC_2025_ZipE.git) |
-| BIOBUZZ | FTC | ??? | ????? |
+| BIOBUZZ | FTC | BUZZKILL | [FTC-2026-BUZZKILL](https://github.com/DO-C-Botics/FTC-2026-BuzzKill.git) |
 | BIOCORE | FRC | ??? | ????? |
 
 ---
